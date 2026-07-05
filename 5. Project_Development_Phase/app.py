@@ -8,8 +8,14 @@ import pandas as pd
 import pickle
 
 # Load the trained model
+from pathlib import Path
+import pickle
+
+MODEL_PATH = Path(__file__).parent / "model.pkl"
+
 try:
-    model = pickle.load(open("model.pkl", "rb"))
+    with open(MODEL_PATH, "rb") as f:
+        model = pickle.load(f)
 except FileNotFoundError:
     st.error("model.pkl not found. Please run train_model.py first to generate the model.")
     st.stop()
