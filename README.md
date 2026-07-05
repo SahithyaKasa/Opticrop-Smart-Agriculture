@@ -4,7 +4,7 @@ OptiCrop is a Machine Learning-based web application that helps farmers decide w
 
 Built as part of the **SmartBridge AI/ML Virtual Internship 2026**.
 
-**Team:** Duddu Vijaya Padma Priya, Kasa Sahitya
+**Team:** Duddu Vijaya Padma Priya, Kasa Sahithya
 
 ---
 
