@@ -96,11 +96,12 @@ This app is built for one-click deployment on [Streamlit Community Cloud](https:
 3. Select your repository and set the main file path to `app.py`.
 4. Click "Deploy".
 
-**Live App URL:** _[Add your deployed Streamlit Cloud link here]_
+**Live App URL:** https://opticrop-smart-agriculture-6uvb6quyslcraqxnjroose.streamlit.app/
 
 ## Screenshots
 
-_[Add screenshots of the input form and results page here]_
+Are in Project Documentation
+
 
 ## Model Details
 
