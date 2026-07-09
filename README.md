@@ -109,6 +109,7 @@ Are in Project Documentation
 - **Input Features:** N, P, K, temperature, humidity, ph, rainfall
 - **Output Classes:** 22 crop types (e.g., rice, maize, mango, banana, coffee, etc.)
 - **Dataset:** [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) (Kaggle)
+- **Demo Video:**(https://drive.google.com/file/d/1zVb5_8W3HebHzVdIE_h9bM5ULmOnGWDm/view?usp=drivesdk)
 
 ## Future Enhancements
 
